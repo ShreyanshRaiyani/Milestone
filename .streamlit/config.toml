@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#43868b"            # Button highlights, radio, checkboxes
+backgroundColor = "#43868b"         # Main background
+secondaryBackgroundColor = "#262730" # Sidebar, widgets background
+textColor = "#ffffff"               # Text color
+font = "sans serif"
